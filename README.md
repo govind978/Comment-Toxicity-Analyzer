@@ -1,5 +1,5 @@
 # Description:
-This repository hosts a comment toxicity detection model built using deep learning with Long Short-Term Memory (LSTM) networks. The model is designed to assess the toxicity level of comments, making it a valuable tool for content moderation and online safety. It uses tokenization and vectorization techniques for text preprocessing, and it's highly customizable for various text classification tasks.
+This is a comment toxicity detection model built using deep learning with Long Short-Term Memory (LSTM) networks. The model is designed to assess the toxicity level of comments, making it a valuable tool for content moderation and online safety. It uses tokenization and vectorization techniques for text preprocessing.
 
 # How to Run the Comment Toxicity Detection Model:
 
